@@ -1,2 +1,8 @@
 # geometric_flows
-I thought Ricci flow was cool, so I thought, "why not try and create an engine for generalized flows?"
+An engine which 
+
+* Takes in a drawn, closed curve
+* Smooths it
+* Generates an animation reflecting the application of any one geometric flow to the curve
+
+:D
