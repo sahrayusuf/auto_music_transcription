@@ -1,9 +1,6 @@
-# auto_music_transcription: Using recurrent neural networks, long short-term memory, and borrowed digital signal processing techniques to transcribe musical audio.
+## auto_music_transcription: Using recurrent neural networks, LSTM, and borrowed DSP techniques to transcribe musical audio.
 
 ### Based on work by Jonathan Sleep at CalPoly
-
-## Abstract / Intro
-There has been a multitude of recent research on using deep learning for music & audio generation and classification. In this paper, we plan to build on these works by implementing a novel system to automatically transcribe polyphonic music with an artificial neural network model. We show that by treating the transcription problem as an image classification problem we can use transformed audio data to predict the group of notes currently being played.
 
 ## Concepts explored:
 Digital Signal Processing: Fast Fourier Transform, Constant-Q Transform, Beat Tracking
