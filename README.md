@@ -4,6 +4,7 @@
 
 ## Concepts explored:
 Digital Signal Processing: Fast Fourier Transform, Constant-Q Transform, Beat Tracking
+
 Machine Learning: CNNs versus RNNs
 
 ## Related work
